@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feature.Forms.ExpressForm", "SitecoreHackApp\Feature.Forms.ExpressForm.csproj", "{C5D3C930-8D14-4B56-8261-864BA4D77FA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{6298940F-C4AA-4513-AA07-E1FE58893457}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Forms", "Forms", "{D0975900-5F5F-4F45-A53F-5F857BC1CF2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5D3C930-8D14-4B56-8261-864BA4D77FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D3C930-8D14-4B56-8261-864BA4D77FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D3C930-8D14-4B56-8261-864BA4D77FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D3C930-8D14-4B56-8261-864BA4D77FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C5D3C930-8D14-4B56-8261-864BA4D77FA0} = {D0975900-5F5F-4F45-A53F-5F857BC1CF2F}
+		{D0975900-5F5F-4F45-A53F-5F857BC1CF2F} = {6298940F-C4AA-4513-AA07-E1FE58893457}
+	EndGlobalSection
+EndGlobal
